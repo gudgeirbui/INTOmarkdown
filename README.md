@@ -1,6 +1,6 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+- Guðgeir Búi Þyríson (gudgeir13)
 
 ## 1. Linux uppsetning
 Having set up Linux multiple times, I safely skipped this step.
