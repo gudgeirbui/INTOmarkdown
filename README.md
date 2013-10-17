@@ -3,22 +3,24 @@
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
 
 ## 1. Linux uppsetning
-
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Having set up Linux multiple times, I safely skipped this step.
+![Arch Linux booting up](http://www.linuxuser.co.uk/wp-content/uploads/2012/10/arch_install_boot.png)
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Having also installed these many times before, I safely skipped this step too. But shouldn't this template also be in English to keep the consistency with the assignment description? Just a thought....
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Allt gekk virkilega vel. Manni leið eins og maður væri sjálfur John D. Carmack!
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+https://github.com/gudgeirbui/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+- GIMP - GNU GENERAL PUBLIC LICENSE - http://git.gnome.org/gimp
+- Mozilla Firefox - Mozilla Public License - https://hg.mozilla.org/mozilla-central/
+- CMake - New BSD License - https://github.com/Kitware/CMake
 
 ## 5. Unnið með Git (2. hluti)
 
